@@ -1,3 +1,14 @@
+a {
+    /* set the text color to blue here */
+    color:blue;
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  }
+
+a:hover {
+    /* set the text color to red here */
+    color:red;
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  }
 body {
     /* set the background color here */
     background-color: beige;
